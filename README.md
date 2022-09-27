@@ -1,9 +1,10 @@
-# automation
-# author:
+## automation
+## author:
+
 brentice
-Setup
+## setup
 Activate your venv and install dependencies from the requirements.txt file.
 
 Run the program with python automation/automation.py.
 
-Tests
+## tests
